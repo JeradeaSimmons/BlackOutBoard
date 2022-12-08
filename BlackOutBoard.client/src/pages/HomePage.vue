@@ -1,12 +1,162 @@
 <template>
  <div class="row text-center align-items-center d-flex justify-content-around border">
  <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/dallas-cowboys-logo.png" alt="Cowboys"></div>
- <div class="col-md-4"><h3>Dace Nuxoll</h3></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around">
  <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
- <div class="col-md-4"><h3>JD Simmons</h3></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ </div>
+ <div class="row text-center d-flex justify-content-around">
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Cowboys"></div>
+ <div class="col-md-4"><h3>Player Name</h3></div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
 </template>
