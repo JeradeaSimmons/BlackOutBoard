@@ -2,7 +2,8 @@
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-3">
     <router-link class="navbar-brand d-flex" :to="{ name: 'Home' }">
       <div class="d-flex flex-column align-items-center">
-        <h1>PRIMETIME BLACKOUT BOARD</h1>
+        <h1><img height="50" src="https://loodibee.com/wp-content/uploads/nfl-league-logo-300x300.png" alt="">PRIMETIME BLACKOUT BOARD <img height="50" src="https://loodibee.com/wp-content/uploads/nfl-league-logo-300x300.png" alt=""></h1>
+        
       </div>
     </router-link>
     <button
@@ -55,6 +56,9 @@ a:hover {
   nav {
     height: 64px;
   }
+}
+h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 </style>
