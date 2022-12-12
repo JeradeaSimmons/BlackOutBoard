@@ -75,12 +75,12 @@
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center">
- <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/losangeles-chargers-logo.png" alt="Cowboys"></div>
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/los-angeles-chargers-logo.png" alt="Cowboys"></div>
  <div class="col-md-4"><h3>Player Name</h3></div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center">
- <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/losangeles-rams-logo.png" alt="Cowboys"></div>
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/los-angeles-rams-logo.png" alt="Cowboys"></div>
  <div class="col-md-4"><h3>Player Name</h3></div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
@@ -100,22 +100,22 @@
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center">
- <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/newengland-patriots-logo.png" alt="Cowboys"></div>
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/new-england-patriots-logo.png" alt="Cowboys"></div>
  <div class="col-md-4"><h3>Player Name</h3></div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center">
- <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/neworleans-saints-logo.png" alt="Cowboys"></div>
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/new-orleans-saints-logo.png" alt="Cowboys"></div>
  <div class="col-md-4"><h3>Player Name</h3></div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center">
- <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/newyork-giants-logo.png" alt="Cowboys"></div>
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/new-york-giants-logo.png" alt="Cowboys"></div>
  <div class="col-md-4"><h3>Player Name</h3></div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center">
- <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/newyork-jets-logo.png" alt="Cowboys"></div>
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/new-york-jets-logo.png" alt="Cowboys"></div>
  <div class="col-md-4"><h3>Player Name</h3></div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
@@ -130,7 +130,7 @@
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center">
- <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/sanfrancisco-49ers-logo.png" alt="Cowboys"></div>
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/san-francisco-49ers-logo.png" alt="Cowboys"></div>
  <div class="col-md-4"><h3>Player Name</h3></div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
@@ -145,7 +145,7 @@
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center">
- <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/tampabay-buccaneers-logo.png" alt="Cowboys"></div>
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/tampa-bay-buccaneers-logo.png" alt="Cowboys"></div>
  <div class="col-md-4"><h3>Player Name</h3></div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
