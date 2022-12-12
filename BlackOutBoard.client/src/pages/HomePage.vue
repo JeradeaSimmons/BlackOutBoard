@@ -1,7 +1,7 @@
 <template>
   <body class="text-white">
-    <div class="row">
-      
+    <div class="row mb-3">
+      <iframe src="https://cappertek.com/xAjaxEventsCarousel.asp?ref=widget" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="width: 100%; height: 90px; margin: 0px; padding: 5px; background-color: white;"></iframe>
     </div>
     
   
@@ -161,7 +161,7 @@
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
- <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/washington-redskins-logo.png" alt="Redskins"></div>
+ <div class="col-md-1"><img class="img-fluid" src="https://1000logos.net/wp-content/uploads/2022/02/Washington-Commanders-Logo-500x281.png" alt="Commanders"></div>
  <div class="col-md-4"><h3>Player Name</h3></div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
