@@ -125,7 +125,7 @@
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center">
- <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/philidelphia-eagles-logo.png" alt="Cowboys"></div>
+ <div class="col-md-2"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/philadelphia-eagles-logo.png" alt="Cowboys"></div>
  <div class="col-md-4"><h3>Player Name</h3></div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
