@@ -1,5 +1,8 @@
 <template>
   <body class="text-white">
+    <div class="row">
+      
+    </div>
     
   
  <div class="row text-center align-items-center d-flex justify-content-around border">
@@ -166,11 +169,7 @@
 </template>
 
 <script>
-export default {
-  setup() {
-    return {}
-  }
-}
+
 </script>
 
 <style scoped lang="scss">
@@ -180,4 +179,5 @@ body{
   background-size: contain;
   
 }
+
 </style>
