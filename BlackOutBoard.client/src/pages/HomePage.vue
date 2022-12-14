@@ -1,11 +1,8 @@
 <template>
   <body class="text-white">
     <div class="row">
-      
-        <iframe src="https://widgets.media.sportradar.com/uscommon/en_us/standalone/us.common.scoreTicker#sport=nfl" frameborder="0"></iframe>
-     
-      
-    </div>
+      <iframe src="https://widgets.media.sportradar.com/uscommon/en_us/standalone/us.common.scoreTicker#sport=nfl" frameborder="0"></iframe>
+     </div>
     
   
  <div class="row text-center align-items-center d-flex justify-content-around border-bottom">
