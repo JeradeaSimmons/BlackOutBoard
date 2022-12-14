@@ -7,97 +7,135 @@
   
  <div class="row text-center align-items-center d-flex justify-content-around border-bottom">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/arizona-cardinals-logo.png" alt="Cardinals"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/atlanta-falcons-logo.png" alt="Falcons"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4"> 
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/buffalo-bills-logo.png" alt="Bills"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4"> 
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/baltimore-ravens-logo.png" alt="Ravens"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+   <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0] </h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/carolina-panthers-logo.png" alt="Panthers"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/cincinnati-bengals-logo.png" alt="Bengals"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/cleveland-browns-logo.png" alt="Browns"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/chicago-bears-logo.png" alt="Bears"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/dallas-cowboys-logo.png" alt="Cowboys"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/denver-broncos-logo.png" alt="Broncos"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/detroit-lions-logo.png" alt="Lions"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/green-bay-packers-logo.png" alt="Packers"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/houston-texans-logo.png" alt="Texans"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/indianapolis-colts-logo.png" alt="Colts"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/kansas-city-chiefs-logo.png" alt="Chiefs"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/los-angeles-chargers-logo.png" alt="Chargers"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/los-angeles-rams-logo.png" alt="Rams"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/jacksonville-jaguars-logo.png" alt="Jaguars"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/miami-dolphins-logo.png" alt="Dolphins"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
@@ -169,6 +207,24 @@
 </template>
 
 <script>
+import NameForm from "../components/NameForm.vue"
+
+
+export default{
+  setup(){
+   
+    
+
+    return{
+
+    };
+  },
+
+  components: {NameForm},
+}
+
+
+
 
 </script>
 
