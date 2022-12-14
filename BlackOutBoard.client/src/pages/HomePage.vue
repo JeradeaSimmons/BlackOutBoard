@@ -140,67 +140,93 @@
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/minnesota-vikings-logo.png" alt="Vikings"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/new-england-patriots-logo.png" alt="Patriots"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/new-orleans-saints-logo.png" alt="Saints"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/new-york-giants-logo.png" alt="Giants"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/new-york-jets-logo.png" alt="Jets"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/oakland-raiders-logo.png" alt="Raiders"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/philadelphia-eagles-logo.png" alt="Eagles"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/san-francisco-49ers-logo.png" alt="49ers"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/seattle-seahawks-logo.png" alt="Seahawks"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/pittsburgh-steelers-logo.png" alt="Steelers"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/tampa-bay-buccaneers-logo.png" alt="Buccaneers"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/tennessee-titans-logo.png" alt="Titans"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border mb-2">
  <div class="col-md-1"><img class="img-fluid" src="https://1000logos.net/wp-content/uploads/2022/02/Washington-Commanders-Logo-500x281.png" alt="Commanders"></div>
- <div class="col-md-4"><h3>Player Name</h3></div>
+ <div class="col-md-4">
+  <NameForm/>
+</div>
  <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
  </div>
  </body>
