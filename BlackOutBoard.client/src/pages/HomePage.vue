@@ -5,7 +5,7 @@
      </div>
     
   
- <div class="row text-center align-items-center d-flex justify-content-around border-bottom">
+ <div class="row text-center align-items-center d-flex justify-content-around border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/arizona-cardinals-logo.png" alt="Cardinals"></div>
  <div class="col-md-4">
   <NameForm/>
