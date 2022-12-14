@@ -1,9 +1,11 @@
 <template>
-  <body class="text-white">
+  <body class="text-white m-0">
     <div class="row">
       <iframe src="https://widgets.media.sportradar.com/uscommon/en_us/standalone/us.common.scoreTicker#sport=nfl" frameborder="0"></iframe>
+      
      </div>
-    
+  
+   
   
  <div class="row text-center align-items-center d-flex justify-content-around border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/arizona-cardinals-logo.png" alt="Cardinals"></div>
