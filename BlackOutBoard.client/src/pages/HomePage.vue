@@ -1,6 +1,6 @@
 <template>
   <body class="text-white m-0">
-    <div class="row">
+    <div class="row mt-2">
       <iframe src="https://widgets.media.sportradar.com/uscommon/en_us/standalone/us.common.scoreTicker#sport=nfl" frameborder="0"></iframe>
       
      </div>
@@ -12,7 +12,7 @@
  <div class="col-md-4">
   <NameForm/>
 </div>
- <div class="col-md-6"><h1>[1][2][3][4][5][6][7][8][9][0]</h1> </div>
+ <div class="col-md-6"><h1> 1  2  3  4  5  6  7  8  9  0 </h1> </div>
  </div>
  <div class="row text-center d-flex justify-content-around align-items-center border">
  <div class="col-md-1"><img class="img-fluid" src="https://cdn.freebiesupply.com/images/thumbs/1x/atlanta-falcons-logo.png" alt="Falcons"></div>
